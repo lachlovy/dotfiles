@@ -1,0 +1,2 @@
+export BAT_THEME="Dracula"
+export ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=#556773"
