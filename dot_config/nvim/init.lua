@@ -1,3 +1,3 @@
-require "lachlovy.options"
-require "lachlovy.keymaps"
-require "lachlovy.lazy"
+require("lachlovy.options")
+require("lachlovy.keymaps")
+require("lachlovy.lazy")
