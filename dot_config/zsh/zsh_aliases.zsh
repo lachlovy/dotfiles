@@ -12,5 +12,7 @@ alias tree="eza --tree --icons"
 alias cat='bat --paging=never'
 alias catp='bat --plain'
 
+alias mux='tmuxinator'
+
 alias bi="brew install"
 alias bic="brew install --cask"
